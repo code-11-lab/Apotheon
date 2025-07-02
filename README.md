@@ -1,5 +1,5 @@
 ### 👋 访客统计
-![Visitor Count](https://profile-counter.glitch.me/[code-11-lab/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/[code-11-lab]/count.svg)
 
 ### 🌞 当前状态
 ![Status](https://github-readme-streak-stats.herokuapp.com/?user=[code-11-lab]&theme=dark)
