@@ -8,19 +8,19 @@
 
 I'm Weihao Cheng (程炜豪), an undergraduate passionate about Medical AI and Multimodal Learning.
 
-- 🔭 我目前正在从事[当前项目/研究]
-- 🌱 我正在学习[正在学习的技术/知识]
-- 👯 我正在寻找机会参与相关的开源项目
-- 💬 你可以问我关于[你的专长领域]的问题
-- 📫 如何联系我：qq邮箱：[3584611370@qq.com] | [社交媒体链接]
-- 😄 我的个人格言：[你的座右铭]
-- ⚡ 有趣的事实：[一个关于你的有趣事实]
+- 🔭 I am currently working on [multimodal large models for smart healthcare, pathological image analysis].
+- 🌱 I am learning [medical reasoning with large language models, computer vision and image processing (tumor pathology/cardiac imaging), deep learning, neural networks].
+- 👯 Looking for open-source projects to collaborate on.
+- 💬 Love math but bad at math. Open to discussions on programming-related topics.
+- 📫 How to reach me: QQ email:[3584611370@qq.com] | 
+- 😄 My personal motto：[I speak my mind, whether in tone or in rule.]
+- ⚡ Identity card ：[Retired OIer / Semi-retired ACMer ]
 
-### 🛠️ 我的技能栈
-- **编程语言**：[列出你熟悉的编程语言]
-- **框架/工具**：[列出你使用过的框架和工具]
-- **数据库**：[列出你熟悉的数据库]
-- **其他**：[列出其他相关技能]!
+### 🛠️ My Skills Stack
+- **Programming Languages**：Python、C、C++
+- **Frameworks/Libraries**：TensorFlow、PyTorch、Scikit-learn、Pandas、NumPy、Matplotlib
+- **Tools**：Jupyter、Git、Docker、AWS SageMaker
+- **Others**：Data Visualization, Statistical Analysis, Deep Learning, Natural Language Processing
 [TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
