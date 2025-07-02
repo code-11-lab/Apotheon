@@ -1,8 +1,8 @@
 ### 👋 访客统计
-![Visitor Count](https://profile-counter.glitch.me/[你的GitHub用户名]/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/[code-11-lab/count.svg)
 
 ### 🌞 当前状态
-![Status](https://github-readme-streak-stats.herokuapp.com/?user=[Apotheon]&theme=dark)
+![Status](https://github-readme-streak-stats.herokuapp.com/?user=[code-11-lab]&theme=dark)
 
 ### Hello World! 👋
 
