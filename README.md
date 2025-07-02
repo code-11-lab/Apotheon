@@ -29,7 +29,7 @@ I'm Weihao Cheng (程炜豪), an undergraduate passionate about Medical AI and M
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 📊 我的GitHub统计
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=[Apotheon]&show_icons=true&theme=radical)
 
 ### 🔥 本周编码时间统计
 ![wakatime](https://wakatime.com/badge/user/[你的wakatime用户ID].svg)
