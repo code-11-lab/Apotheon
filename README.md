@@ -2,7 +2,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/[你的GitHub用户名]/count.svg)
 
 ### 🌞 当前状态
-![Status](https://github-readme-streak-stats.herokuapp.com/?user=[你的GitHub用户名]&theme=dark)
+![Status](https://github-readme-streak-stats.herokuapp.com/?user=[Apotheon]&theme=dark)
 
 ### Hello World! 👋
 
